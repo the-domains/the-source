@@ -1,0 +1,14 @@
+layout_spectrum: 0.2096859
+color:
+  saturation: 0.3660203
+  lightness: 0.9375089
+  brandStrength: 0.5100251
+  brandColors:
+    - '#767886'
+    - '#CF9A87'
+    - '#7F9BE0'
+    - '#80534B'
+    - '#532F30'
+  rhythmicContrast: 0.0808488
+typography_spectrum: 0.4492712
+name: The Source
