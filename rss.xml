@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Source]]></title>
+        <description><![CDATA[The Source]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 25 May 2016 06:39:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Source of my Dreams]]></title>
+            <description><![CDATA[<article><h1>A Source of my Dreams</h1><p>design by ?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b123760-d65f-4d2b-9de2-481fb7119449.png"></article>]]></description>
+            <link>undefineda-source-of-my-dreams/index.html</link>
+            <guid isPermaLink="false">37b9b1c8-15a4-403c-a9b6-703ed5dc7034</guid>
+            <pubDate>Wed, 25 May 2016 06:39:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
